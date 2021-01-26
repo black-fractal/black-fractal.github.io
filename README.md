@@ -1,4 +1,4 @@
-## Welcome to My GitHub personal blog!
+## Welcome to My GitHub Personal Blog!
 
 [My Personal Website](http://khodabakhshi.ir) | 
 [My Github Page](https://github.com/black-fractal) | 
