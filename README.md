@@ -1,5 +1,4 @@
-## Welcome to My GitHub personal blog
-
-http://khodabakhshi.ir[http://khodabakhshi.ir]
-
-vkhodabakhshi@ce.sharif.edu[mailti:vkhodabakhshi@ce.sharif.edu]
+[My Personal Website](http://khodabakhshi.ir)
+[My Github Page](https://github.com/black-fractal)
+[My Academic E-mail!](mailto:vkhodabakhshi@ce.sharif.edu)
+[My Gmail!](mailto:khodabakhshi.vahid@gmail.com)
